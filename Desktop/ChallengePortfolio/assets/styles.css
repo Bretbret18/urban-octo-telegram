@@ -1,0 +1,72 @@
+* {
+    
+}
+
+header {
+    border: 3px solid;
+    border-color: black;
+    background-color: #99CCFF;
+}
+
+header h2 a {
+    font: georgia;
+    font-weight: thin;
+    margin: auto 33%;
+    color: #a83800;
+    background-color: #99CCFF;
+}
+
+header nav ul {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+    list-style: none;
+    background-color: #99CCFF;
+}
+
+header nav ul li a {
+    font: georgia;
+    color: #a83800;
+    font-size: larger;
+    padding: 10px 15px;
+    font-weight: 700;
+    font-size: 1.55vw;
+    text-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+}
+
+body {
+    background-color:#EDEDED;
+}
+
+.body-div h1 {
+    background-color: #EDEDED;
+    font-size: 32px;
+    margin: auto 15%;
+    
+}
+
+.body-div p {
+    background-color: #EDEDED;
+    margin: 400px 100px;
+    width: 35%;
+    margin: 3.5%;
+    text-align: center;
+    color: black;
+    font-size: 18px;
+    line-height: 1.2;
+}
+
+.body-div {
+    background-color: #EDEDED;
+    margin: 200px auto;
+}
+
+.page-body {
+    background-color: #EDEDED;
+}
+
+.my-resume h3 {
+    margin: auto 20%;
+   
+}
